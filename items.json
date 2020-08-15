@@ -1,0 +1,30 @@
+{
+    "music": [
+        {
+            "id": "1",
+            "name": "Album 1 test",
+            "price": 1299,
+            "imgName": "Album 1.png"
+        },
+        {
+            "id": "2",
+            "name": "Album 2",
+            "price": 1499,
+            "imgName": "Album 2.png"
+        }
+    ],
+    "merch": [
+        {
+            "id": "5",
+            "name": "T-Shirt",
+            "price": 1999,
+            "imgName": "Shirt.png"
+        },
+        {
+            "id": "6",
+            "name": "Coffee Cup",
+            "price": 699,
+            "imgName": "Cofee.png"
+        }
+    ]
+}
